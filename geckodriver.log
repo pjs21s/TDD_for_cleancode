@@ -1,0 +1,547 @@
+1559054841825	geckodriver	INFO	Listening on 127.0.0.1:49781
+1559054946171	geckodriver	INFO	Listening on 127.0.0.1:49922
+1559054949156	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.ynyUB1uHxOEA
+1559054949176	geckodriver::marionette	INFO	Starting browser path/to/firefox.exe
+1559055033721	geckodriver	INFO	Listening on 127.0.0.1:50006
+1559055036714	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.O3FyA0V4d5ra
+1559055036741	geckodriver::marionette	INFO	Starting browser path/to/firefox.exe
+1559055047542	geckodriver	INFO	Listening on 127.0.0.1:50018
+1559055140305	geckodriver	INFO	Listening on 127.0.0.1:50104
+1559055265786	geckodriver	INFO	Listening on 127.0.0.1:50157
+1559055268766	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.HRpgxqyq7vlK
+1559055268790	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox
+1559055362082	geckodriver	INFO	Listening on 127.0.0.1:50241
+1559055365064	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.Zcea1D2rTII6
+1559055365091	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox
+1559055401957	geckodriver	INFO	Listening on 127.0.0.1:50255
+1559055404942	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.d1RuwepaToHs
+1559055404963	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox
+1559055536924	geckodriver	INFO	Listening on 127.0.0.1:50502
+1559055539916	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.2DsMP3qkeebc
+1559055539950	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefoxirefox.exe
+1559055600428	geckodriver	INFO	Listening on 127.0.0.1:50525
+1559055603375	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.Uh6aQE5a0Uic
+1559055603386	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559055603399	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50533
+1559055604023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559055604023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559055604023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559055605523	Marionette	INFO	Listening on port 2828
+[Parent 17264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 476, Chrome_ChildThread] WARNING: pipe err[Child 16688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16688, Chrome_ChildThread] WARNING: p[Parent 17264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16592,1559055614729	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15764
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559055634813	geckodriver	INFO	Listening on 127.0.0.1:50588
+1559055637803	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.Ut2eKuaUU3gl
+1559055637826	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559055637846	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50596
+1559055638188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559055638189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559055638189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559055639548	Marionette	INFO	Listening on port 2828
+[Parent 1740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[dChild 14412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14[Parent 1740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14976, Chrome_ChildThread]1559055648424	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17136, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559181365089	geckodriver	INFO	Listening on 127.0.0.1:59400
+1559181368073	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.hc3WLiPSwke2
+1559181368097	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559181368121	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59409
+1559181368834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559181368834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559181368834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559181370383	Marionette	INFO	Listening on port 2828
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Child 11404, Chrome_ChildThread] WARNING: pip3348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/bui[Parent 2904, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14640, 1559181372712	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16128, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559181380248	geckodriver	INFO	Listening on 127.0.0.1:59454
+1559181383181	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.x83YCav31XUm
+1559181383200	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559181383223	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59465
+1559181383593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559181383593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559181383593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559181385126	Marionette	INFO	Listening on port 2828
+[Parent 16448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Parent 16448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1156, Chrom1559181387325	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2060, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559181405404	geckodriver	INFO	Listening on 127.0.0.1:59537
+1559182869976	geckodriver	INFO	Listening on 127.0.0.1:49852
+1559182872918	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.0NhgtBhkfDHE
+1559182872944	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559182872972	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49862
+1559182873622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559182873622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559182873622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559182875291	Marionette	INFO	Listening on port 2828
+[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18876, Chrome_ChildThread] WARNING: pi[Child 13784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 191559182911973	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13032, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559182929489	geckodriver	INFO	Listening on 127.0.0.1:49943
+1559182932451	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.0vn2UGbz8jgQ
+1559182932471	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559182932496	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49951
+1559182932854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559182932854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559182932854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559182934297	Marionette	INFO	Listening on port 2828
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[Child 13820, Chrome_Ccc, line 341
+hildThread] WARNING: pipe error: 109: file z:/task_1558035249/bui[Child 2804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chrolmium/src/chrome/common/ipc_channel_win.cc, line 341
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 840, C1559182937367	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559184776841	geckodriver	INFO	Listening on 127.0.0.1:50726
+1559184845597	geckodriver	INFO	Listening on 127.0.0.1:50815
+1559184848585	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.4LaKT4Q0cjrZ
+1559184848615	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefoxirefox.exe
+1559184856140	geckodriver	INFO	Listening on 127.0.0.1:50827
+1559184859123	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.7u2dYzn6xRrb
+1559184859151	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559184859175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50835
+1559184859515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559184859515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559184859515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559184860924	Marionette	INFO	Listening on port 2828
+[Parent 19432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18804, Chrome_ChildThread] WARNING: pipe error: 10[Parent 19432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 123481559184867500	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17412, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559185288156	geckodriver	INFO	Listening on 127.0.0.1:49784
+1559185746503	geckodriver	INFO	Listening on 127.0.0.1:50110
+1559185802044	geckodriver	INFO	Listening on 127.0.0.1:50156
+1559185805016	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.G670kocjs8oy
+1559185805037	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559185805049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50164
+1559185805373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559185805374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559185805374	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559185806928	Marionette	INFO	Listening on port 2828
+[Parent 18900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2920, [Parent 18900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14616[Parent 18900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16124, 1559185811954	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2684,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559186952001	geckodriver	INFO	Listening on 127.0.0.1:51805
+1559186954973	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.DZjJg9MMN5AE
+1559186954997	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1559186979967	geckodriver	INFO	Listening on 127.0.0.1:51820
+1559186982927	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.joj2514u7hON
+1559186982951	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1559186982969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51830
+1559187239181	geckodriver	INFO	Listening on 127.0.0.1:52095
+1559187242161	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.DK9O0NBLFGdu
+1559187242182	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1559187242200	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52103
+1559187242399	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[Parent 11004] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17516] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17516] WARNIJavaScript error: resource://gre/modules/PopupNotifications.jsm, line 1043: TypeError: this.panel.openPopup is not a function
+[Child 1036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1036] WARconsole.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:622:19
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559187252430	geckodriver	INFO	Listening on 127.0.0.1:52138
+1559187255417	mozprofile::profile	INFO	Using profile path C:\Users\pjs21\AppData\Local\Temp\rust_mozprofile.8B6T2Y75r8OI
+1559187255442	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1559187255463	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52146
+1559187255643	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[Child 17468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17468] WARNING: pipe error: 109: file z:/b[Child 18340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18340] WAR[Child 18940] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18940] WARNIN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559187304682	geckodriver	INFO	Listening on 127.0.0.1:52237
+1559187590473	geckodriver	INFO	Listening on 127.0.0.1:52367
+1559187978064	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.9YBYecFYegmK"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559187978531	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17936, ChroUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559187979570	Marionette	INFO	Listening on port 52761
+1559187979697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559187979740	Marionette	DEBUG	Register listener.js for window 4294967297
+1559187979772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559187980251	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559187980252	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559187980821	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1559187981357	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+[Parent 12604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12256, Chrome_ChildThread] WARNING: pipe error: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559188008418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.HZwWPK97SkZj"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559188008898	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18180, ChromUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559188009935	Marionette	INFO	Listening on port 52807
+1559188010059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559188010108	Marionette	DEBUG	Register listener.js for window 4294967297
+1559188010125	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559188010511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559188010511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559188011051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1559188011557	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+[Parent 18280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2176, Chrome_ChildThread] WARNING:*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559188305758	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.lP5a6wZoQ2Z6"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559188306252	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559188307256	Marionette	INFO	Listening on port 52899
+1559188307404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559188307448	Marionette	DEBUG	Register listener.js for window 4294967297
+1559188307471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559188308075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559188308075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559188308678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1559188309181	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+[Parent 16060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228, Chrome_ChildThread] W*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559188381497	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.LqAC2U1Lauyx"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559188382012	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1616, Chrome_Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559188383093	Marionette	INFO	Listening on port 52948
+1559188383121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559188383168	Marionette	DEBUG	Register listener.js for window 4294967297
+1559188383234	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559188383691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559188383692	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559188384236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1559188384345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 2936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17848, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559207568986	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.fpm14Z2eHv5T"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559207569758	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18136, Chrome_Ch1559207570908	Marionette	INFO	Listening on port 53665
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559207571114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559207571164	Marionette	DEBUG	Register listener.js for window 4294967297
+1559207571187	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559207571545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559207571546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559207571554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1559207571712	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+[Parent 17976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559208351033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.AdsklJkIIc5o"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208351520	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 612, Chrome_ChiUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208352529	Marionette	INFO	Listening on port 53926
+1559208352656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559208352706	Marionette	DEBUG	Register listener.js for window 4294967297
+1559208352733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559208353003	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559208353003	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559208353007	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1559208353081	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+[Parent 1456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5316, Chrome_ChildThread] WARNING:[Child 12780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12780, Chrome_ChildThread] WARNING: pipe error: 109: file z*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559208644129	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.nGikxVbeoXaH"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208644656	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14564, ChroUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208645602	Marionette	INFO	Listening on port 54084
+1559208645784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559208645828	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 15112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1532, Chrome_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559208671716	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.1gV7FMRkYRiq"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208672175	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14308, ChromeUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208673176	Marionette	INFO	Listening on port 54117
+1559208673334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559208673376	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 10984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18440, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559208753883	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.X5Cs3Zi2AEIi"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208754363	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buildUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208755347	Marionette	INFO	Listening on port 54199
+1559208755517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559208755559	Marionette	DEBUG	Register listener.js for window 4294967297
+1559208755580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559208755875	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559208755876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559208755887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1559208755949	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+[Parent 17576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13952, Chrome_Child[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12972, Chrome_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559208804171	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.2McL61cQgQJj"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208804746	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5368, ChromUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208805749	Marionette	INFO	Listening on port 54242
+1559208805825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559208805868	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1344, Chrome[Child 17304, Chrome_ChildThread] WARNING: pipe error: 109: file*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559208970410	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.vAbZ9FlcfgKi"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208970934	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17756, ChromUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559208971974	Marionette	INFO	Listening on port 54294
+1559208972039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559208972083	Marionette	DEBUG	Register listener.js for window 4294967297
+1559208972104	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559208972403	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559208972403	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559208972419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1559208972480	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1559208972514	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4908, Chrome_ChildT[Parent 1372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
+1559209028443	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pjs21\\AppData\\Local\\Temp\\rust_mozprofile.ZPPodM9B8fM6"
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559209028943	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11020, ChromeUnable to read VR Path Registry from C:\Users\pjs21\AppData\Local\openvr\openvrpaths.vrpath
+1559209029905	Marionette	INFO	Listening on port 54328
+1559209030078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1559209030118	Marionette	DEBUG	Register listener.js for window 4294967297
+1559209030135	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1559209030418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1559209030419	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1559209030436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1559209030509	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1559209030563	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 14456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14456, Chrome[Child 348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 348, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+KLIB_SelfTest return : KLR_OK
